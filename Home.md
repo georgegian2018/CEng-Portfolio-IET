@@ -8,7 +8,7 @@ Welcome to the GitHub Wiki version of my Chartered Engineer application with the
 ## 📚 Navigation by Competence
 
 ### 🔹 A – Knowledge and Understanding
-- [A1 – Engineering Knowledge](A1.md)
+- [A1 – Engineering Knowledge](Competence A – Knowledge and Understanding/A1.md) 
 - [A2 – Solving Engineering Problems](A2.md)
 
 ### 🔹 B – Design and Development
