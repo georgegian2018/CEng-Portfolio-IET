@@ -1,5 +1,5 @@
 # 🧱 How IET Competences Are Written – Using STAR and SMART (The Framework)
----
+
 This guide explains how to write high-quality engineering competence evidence aligned with the IET and UK-SPEC using the STAR and SMART techniques.
 it is intended to provide clear and practical guidance on how IET competences should be written for a professional registration application. 
 It explains the recommended structure by working through a single competence and demonstrating how the **STAR** and **SMART** techniques can be applied effectively.
