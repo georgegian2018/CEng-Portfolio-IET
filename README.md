@@ -65,6 +65,7 @@ Home.md
 ├── PRI Preparation Guide.md
 └── CPD Log (Optional).md
 
+```
 ---
 
 ## 📄 Key Files Explained
@@ -119,7 +120,7 @@ Prepared with structured engineering judgement and AI‑assisted drafting, revie
 - Professional tone
 - IET assessor expectations
 
-```
+
 ---
 
 You can begin from here [Home](https://github.com/georgegian2018/CEng-Portfolio-IET/blob/main/Home.md)
