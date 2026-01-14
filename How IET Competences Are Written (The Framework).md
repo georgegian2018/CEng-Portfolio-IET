@@ -9,7 +9,7 @@ To ensure the guidance is accurate and aligned with assessor expectations, the s
 
 ## 1. Understanding the IET Competence Framework
 
-The IET assesses professional competence using the **UK-SPEC (UK Standard for Professional Engineering Competence)** framework. These competences are not simply a list of skills; they are defined standards that you must clearly demonstrate through evidence from your professional experience.
+The IET assesses professional competence using the **UK Standard for Professional Engineering Competence (UK-SPEC)** framework. These competences are not simply a list of skills; they are defined standards that you must clearly demonstrate through evidence from your professional experience.
 
 The framework is divided into five main competence areas, labelled **A to E**:
 
@@ -34,7 +34,7 @@ When preparing your application, you are required to provide clear evidence for 
 
 ## 2. Structuring a Competence Using STAR and SMART
 
-The IET expects applicants to clearly describe their **personal contribution**, using **“I”** rather than **“we.”** This allows assessors to understand exactly what you did and the level of responsibility you held.
+The IET expects applicants to clearly describe their **personal contribution**, using **“I”** rather than **“We.”** This allows assessors to understand exactly what you did and the level of responsibility you held.
 
 - **STAR** helps structure your example as a clear and logical story that an assessor can easily follow.
 - **SMART** strengthens your evidence by showing that your objectives and results were specific, measurable, and meaningful.
