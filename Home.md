@@ -38,5 +38,5 @@ Welcome to the GitHub Wiki version of my Chartered Engineer application with the
 
 ## 🗣️ Other Pages
 - [PRI Preparation Guide](PRI_Preparation_Guide.md)
-- [How IET Competences Are Written](How_IET_Competences_Are_Written.md)
+- [How IET Competences Are Written](How IET Competences Are Written (The Framework).md)
 - [CPD Log (Optional)](CPD_Log.md)
