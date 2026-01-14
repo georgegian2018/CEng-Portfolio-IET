@@ -93,7 +93,7 @@ In my role as Lead Engineer for the **[Project Name]** upgrade, the project enco
 
 ### Task – The SMART Objective
 
-I took responsibility for reorganising the testing workflow. My objective was **specific and measurable**: to reduce the testing cycle from **15 days to 10 days** (a reduction of approximately **33%**) without compromising safety or compliance requirements. This improvement needed to be delivered within a **four-week timeframe** to ensure the overall project remained on schedule.
+I took responsibility for reorganising the testing workflow. My objective was **specific and measurable**: to reduce the testing cycle from **10 days to 15 days** (a reduction of approximately **33%**) without compromising safety or compliance requirements. This improvement needed to be delivered within a **four-week timeframe** to ensure the overall project remained on schedule.
 
 ### Action – What I Did
 
