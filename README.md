@@ -1,6 +1,5 @@
 
 # 🛠️ Chartered Engineer (CEng) Application Portfolio – IET
-# CEng-Portfolio-IET
 
 ![IET Chartered Engineer](https://img.shields.io/badge/IET-Chartered%20Engineer-blue)
 ![UK-SPEC Aligned](https://img.shields.io/badge/UK--SPEC-Aligned-success)
