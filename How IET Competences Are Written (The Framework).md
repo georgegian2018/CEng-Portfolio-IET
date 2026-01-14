@@ -3,7 +3,7 @@
 This guide explains how to write high-quality engineering competence evidence aligned with the IET and UK-SPEC using the STAR and SMART techniques.
 it is intended to provide clear and practical guidance on how IET competences should be written for a professional registration application. 
 It explains the recommended structure by working through a single competence and demonstrating how the **STAR** and **SMART** techniques can be applied effectively.
-To ensure the guidance is accurate and aligned with assessor expectations, the structure presented here is based on a detailed review of the official **UK-SPEC framework**, which is used by the IET for both **Chartered Engineer (CEng)** and **Incorporated Engineer (IEng)** registrations.
+To ensure the guidance is accurate and aligned with assessor expectations, the structure presented here is based on a detailed review of the official **UK-SPEC framework**, which is used by the IET for **Chartered Engineer (CEng)** and **Incorporated Engineer (IEng)**, **Information and Communications Technology Technician (ICTTech)** and/or **Engineering Technician (EngTech)** professional registrations.
 
 ---
 
