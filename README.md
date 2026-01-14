@@ -8,6 +8,9 @@
 ![CPD Included](https://img.shields.io/badge/CPD-Included-verified)
 ![Markdown](https://img.shields.io/badge/Format-Markdown-blueviolet)
 ![AI Assisted](https://img.shields.io/badge/AI-Assisted-lightgrey)
+![Format](https://img.shields.io/badge/Format-Markdown-blue.svg)
+![Templates](https://img.shields.io/badge/Templates-Available-brightgreen)
+![Status](https://img.shields.io/badge/Status-Active%20Development-blue)
 
 ---
 
