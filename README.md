@@ -19,13 +19,14 @@ This repository is designed to be used **both as a GitHub repository and as a Gi
 This repository provides practical guidance on how to write IET professional registration competences using the official UK-SPEC framework.
 
 It demonstrates how to structure competence evidence clearly and effectively by combining:
-- The **STAR** technique (Situation, Task, Action, Result), and
-- **SMART** objectives (Specific, Measurable, Achievable, Relevant, Time-bound).
+- The **Situation, Task, Action, Result** technique **(STAR)**, and
+- The **Specific, Measurable, Achievable, Relevant, Time-bound** objectives **(SMART)**.
 
 The material is suitable for applicants and mentors supporting:
 - Chartered Engineer (CEng)
 - Incorporated Engineer (IEng)
-- Engineering Technician (EngTech / ICTTech)
+- Engineering Technician (EngTech)
+- Information and Communications Technology Technician (ICTTech)
 
 All examples are written in line with IET assessor expectations and focus on:
 - First-person (“I”) evidence,
@@ -63,10 +64,7 @@ Home.md
 │   └── E5.md
 ├── PRI Preparation Guide.md
 └── CPD Log (Optional).md
-```
 
-
-[Home](https://github.com/georgegian2018/CEng-Portfolio-IET/blob/main/Home.md)
 ---
 
 ## 📄 Key Files Explained
@@ -121,6 +119,10 @@ Prepared with structured engineering judgement and AI‑assisted drafting, revie
 - Professional tone
 - IET assessor expectations
 
+```
+---
+
+You can begin from here [Home](https://github.com/georgegian2018/CEng-Portfolio-IET/blob/main/Home.md)
 
 ---
 ## 📜 License
