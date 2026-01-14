@@ -64,9 +64,9 @@ Home.md
 ├── PRI Preparation Guide.md
 └── CPD Log (Optional).md
 ```
-home
-https://github.com/georgegian2018/CEng-Portfolio-IET/blob/main/Home.md
 
+
+[Home](https://github.com/georgegian2018/CEng-Portfolio-IET/blob/main/Home.md)
 ---
 
 ## 📄 Key Files Explained
