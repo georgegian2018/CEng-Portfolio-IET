@@ -12,7 +12,7 @@ Welcome to the GitHub Wiki version of my Chartered Engineer application with the
 - [A2 – Solving Engineering Problems](https://github.com/georgegian2018/CEng-Portfolio-IET/blob/main/Competence%20A%20%E2%80%93%20Knowledge%20and%20Understanding/A2.md)
 
 ### 🔹 B – Design and Development
-- [B1 – Identifying Requirements]([B1.md](https://github.com/georgegian2018/CEng-Portfolio-IET/blob/main/Competence%20B%20%E2%80%93%20Application%20of%20Skills/B1.md)
+- [B1 – Identifying Requirements](https://github.com/georgegian2018/CEng-Portfolio-IET/blob/main/Competence%20B%20%E2%80%93%20Application%20of%20Skills/B1.md)
 - [B2 – Research and Analysis](https://github.com/georgegian2018/CEng-Portfolio-IET/blob/main/Competence%20B%20%E2%80%93%20Application%20of%20Skills/B2.md)
 - [B3 – Implementation and Evaluation](https://github.com/georgegian2018/CEng-Portfolio-IET/blob/main/Competence%20B%20%E2%80%93%20Application%20of%20Skills/B3.md)
 
