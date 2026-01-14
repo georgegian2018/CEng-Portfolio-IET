@@ -12,27 +12,27 @@ Welcome to the GitHub Wiki version of my Chartered Engineer application with the
 - [A2 – Solving Engineering Problems](https://github.com/georgegian2018/CEng-Portfolio-IET/blob/main/Competence%20A%20%E2%80%93%20Knowledge%20and%20Understanding/A2.md)
 
 ### 🔹 B – Design and Development
-- [B1 – Identifying Requirements](B1.md)
-- [B2 – Research and Analysis](B2.md)
-- [B3 – Implementation and Evaluation](B3.md)
+- [B1 – Identifying Requirements]([B1.md](https://github.com/georgegian2018/CEng-Portfolio-IET/blob/main/Competence%20B%20%E2%80%93%20Application%20of%20Skills/B1.md)
+- [B2 – Research and Analysis](https://github.com/georgegian2018/CEng-Portfolio-IET/blob/main/Competence%20B%20%E2%80%93%20Application%20of%20Skills/B2.md)
+- [B3 – Implementation and Evaluation](https://github.com/georgegian2018/CEng-Portfolio-IET/blob/main/Competence%20B%20%E2%80%93%20Application%20of%20Skills/B3.md)
 
 ### 🔹 C – Responsibility, Management & Leadership
-- [C1 – Planning Activities](C1.md)
-- [C2 – Managing Budgets and Resources](C2.md)
-- [C3 – Leading Teams](C3.md)
-- [C4 – Promoting Quality](C4.md)
+- [C1 – Planning Activities](https://github.com/georgegian2018/CEng-Portfolio-IET/blob/main/Competence%20C%20%E2%80%93%20Project%20Management%20and%20Leadership/C1.md)
+- [C2 – Managing Budgets and Resources](https://github.com/georgegian2018/CEng-Portfolio-IET/blob/main/Competence%20C%20%E2%80%93%20Project%20Management%20and%20Leadership/C2.md)
+- [C3 – Leading Teams](https://github.com/georgegian2018/CEng-Portfolio-IET/blob/main/Competence%20C%20%E2%80%93%20Project%20Management%20and%20Leadership/C3.md)
+- [C4 – Promoting Quality](https://github.com/georgegian2018/CEng-Portfolio-IET/blob/main/Competence%20C%20%E2%80%93%20Project%20Management%20and%20Leadership/C4.md)
 
 ### 🔹 D – Communication & Interpersonal Skills
-- [D1 – Communicating Effectively](D1.md)
-- [D2 – Presenting Proposals](D2.md)
-- [D3 – Team Collaboration](D3.md)
+- [D1 – Communicating Effectively](https://github.com/georgegian2018/CEng-Portfolio-IET/blob/main/Competence%20D%20%E2%80%93%20Communication%20and%20Interpersonal%20Skills/D1.md)
+- [D2 – Presenting Proposals](https://github.com/georgegian2018/CEng-Portfolio-IET/blob/main/Competence%20D%20%E2%80%93%20Communication%20and%20Interpersonal%20Skills/D2.md)
+- [D3 – Team Collaboration](https://github.com/georgegian2018/CEng-Portfolio-IET/blob/main/Competence%20D%20%E2%80%93%20Communication%20and%20Interpersonal%20Skills/D3.md)
 
 ### 🔹 E – Professional Commitment
-- [E1 – Ethics and Conduct](E1.md)
-- [E2 – Health and Safety](E2.md)
-- [E3 – Continuing Professional Development](E3.md)
-- [E4 – Sustainability](E4.md)
-- [E5 – Commitment to the Profession](E5.md)
+- [E1 – Ethics and Conduct](https://github.com/georgegian2018/CEng-Portfolio-IET/blob/main/Competence%20E%20%E2%80%93%20Professional%20Commitment/E1.md)
+- [E2 – Health and Safety](https://github.com/georgegian2018/CEng-Portfolio-IET/blob/main/Competence%20E%20%E2%80%93%20Professional%20Commitment/E2.md)
+- [E3 – Continuing Professional Development](https://github.com/georgegian2018/CEng-Portfolio-IET/blob/main/Competence%20E%20%E2%80%93%20Professional%20Commitment/E3.md)
+- [E4 – Sustainability](https://github.com/georgegian2018/CEng-Portfolio-IET/blob/main/Competence%20E%20%E2%80%93%20Professional%20Commitment/E4.md)
+- [E5 – Commitment to the Profession](https://github.com/georgegian2018/CEng-Portfolio-IET/blob/main/Competence%20E%20%E2%80%93%20Professional%20Commitment/E5.md)
 
 ---
 
