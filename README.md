@@ -16,6 +16,23 @@ Welcome to my professional portfolio supporting my application for **Chartered E
 This repository is designed to be used **both as a GitHub repository and as a GitHub Wiki**, providing clear, structured evidence against the **UK-SPEC competence framework (A–E)**.
 
 ---
+This repository provides practical guidance on how to write IET professional registration competences using the official UK-SPEC framework.
+
+It demonstrates how to structure competence evidence clearly and effectively by combining:
+- The **STAR** technique (Situation, Task, Action, Result), and
+- **SMART** objectives (Specific, Measurable, Achievable, Relevant, Time-bound).
+
+The material is suitable for applicants and mentors supporting:
+- Chartered Engineer (CEng)
+- Incorporated Engineer (IEng)
+- Engineering Technician (EngTech / ICTTech)
+
+All examples are written in line with IET assessor expectations and focus on:
+- First-person (“I”) evidence,
+- Measurable outcomes,
+- Professional responsibility and impact.
+
+---
 
 ## 📁 Repository Contents
 
@@ -104,22 +121,7 @@ Prepared with structured engineering judgement and AI‑assisted drafting, revie
 - Professional tone
 - IET assessor expectations
 
----
-This repository provides practical guidance on how to write IET professional registration competences using the official UK-SPEC framework.
 
-It demonstrates how to structure competence evidence clearly and effectively by combining:
-- The **STAR** technique (Situation, Task, Action, Result), and
-- **SMART** objectives (Specific, Measurable, Achievable, Relevant, Time-bound).
-
-The material is suitable for applicants and mentors supporting:
-- Chartered Engineer (CEng)
-- Incorporated Engineer (IEng)
-- Engineering Technician (EngTech / ICTTech)
-
-All examples are written in line with IET assessor expectations and focus on:
-- First-person (“I”) evidence,
-- Measurable outcomes,
-- Professional responsibility and impact.
 ---
 ## 📜 License
 
