@@ -14,17 +14,16 @@
 ![SMART Objectives](https://img.shields.io/badge/SMART-Objectives-brightgreen)
 ![CPD Included](https://img.shields.io/badge/CPD-Included-verified)
 ![Markdown](https://img.shields.io/badge/Format-Markdown-blueviolet)
-![AI Assisted](https://img.shields.io/badge/AI-Assisted-lightgrey)
 ![Format](https://img.shields.io/badge/Format-Markdown-blue.svg)
 ![Templates](https://img.shields.io/badge/Templates-Available-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Active%20Development-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-success)
 ![Type](https://img.shields.io/badge/Type-Professional%20Wiki-blue)
 ![Focus](https://img.shields.io/badge/Focus-CEng%20%7C%20UK--SPEC-purple)
 ![Framework](https://img.shields.io/badge/Framework-STAR%20%26%20SMART-orange)
 ![Audience](https://img.shields.io/badge/Audience-CEng%20Applicants%20%26%20Mentors-teal)
 ![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey)
-![Maintained](https://img.shields.io/badge/Maintained-Yes-success)
 ![Use](https://img.shields.io/badge/Use-Non--Commercial%20Only-critical)
 
 ---
