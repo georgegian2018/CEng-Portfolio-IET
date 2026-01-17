@@ -40,3 +40,4 @@ Welcome to the GitHub Wiki version of my Chartered Engineer application with the
 - [PRI Preparation Guide](PRI_Preparation_Guide.md)
 - [How IET Competences Are Written](https://github.com/georgegian2018/CEng-Portfolio-IET/blob/main/How%20IET%20Competences%20Are%20Written%20(The%20Framework).md)
 - [CPD Log (Optional)](CPD_Log.md)
+- [Competence Evidence Workbook (Optional)](Competence_Evidence_Workbook_CEng_i4.md)
