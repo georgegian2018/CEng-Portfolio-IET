@@ -32,15 +32,6 @@
 ---
 
 
-![IET Chartered Engineer](https://img.shields.io/badge/IET-Chartered%20Engineer-blue)
-![UK-SPEC Aligned](https://img.shields.io/badge/UK--SPEC-Aligned-success)
-![STAR Method](https://img.shields.io/badge/STAR-Methodology-informational)
-![SMART Objectives](https://img.shields.io/badge/SMART-Objectives-brightgreen)
-![CPD Included](https://img.shields.io/badge/CPD-Included-verified)
-![Markdown](https://img.shields.io/badge/Format-Markdown-blueviolet)
-![AI Assisted](https://img.shields.io/badge/AI-Assisted-lightgrey)
----
-
 Welcome to my professional portfolio supporting my application for **Chartered Engineer (CEng)** registration with the **Institution of Engineering and Technology (IET)**.
 
 This repository is designed to be used **both as a GitHub repository and as a GitHub Wiki**, providing clear, structured evidence against the **UK-SPEC competence framework (A–E)**.
