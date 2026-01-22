@@ -24,7 +24,6 @@ By the end, you'll be well on your way to using **Git** and **GitHub**.
 ----
 
 ## 📚 RESOURCES
-- Sample files to follow along: 
 - Official Git web site: https://www.git-scm.com/
 - Official GitHub.com web site: https://github.com/
 - Git and GitHub.com cheat sheet: https://education.github.com/git-cheat-sheet-education.pdf
