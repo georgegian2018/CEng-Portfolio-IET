@@ -12,11 +12,16 @@
 ![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey)
 ![Use](https://img.shields.io/badge/Use-Non--Commercial%20Only-critical)
 
-A beginner-friendly, no-assumptions tutorial explaining how GitHub
-**Organizations**, **Repositories**, and **Projects** actually work.
+A beginner-friendly, no-assumptions step-by-step tutorial, explaining how to use **Git** and **GitHub** for **Source Control Management (SCM)**. 
 
-In this step-by-step tutorial, learn how to use Git and GitHub for Source Control Management (SCM). 
-We start with Git. What is it? How you can get it running on your system, and how you can start working with it? Then we look at GitHub.com, a platform for hosting and collaborating on Git repositories. By the end, you'll be well on your way to using Git and GitHub. If you'd like to follow along, I've included sample files down below.
+We start with Git. 
+- What is it?
+- How you can get it running on your system, and how you can start working with it?
+
+Then we look at GitHub.com, a platform for hosting and collaborating on Git repositories. 
+
+By the end, you'll be well on your way to using **Git** and **GitHub**. 
+~~If you'd like to follow along, I've included sample files down below.~~
 
 ## 📚 RESOURCES
 - Sample files to follow along: 
