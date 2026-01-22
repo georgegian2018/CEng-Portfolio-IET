@@ -133,23 +133,20 @@ Download the content from a remote repository
 git pull REMOTE
 ```
 
-## 📺 RELATED VIDEOS
+ ~~📺 RELATED VIDEOS~~
 
+ ~~🙌 SUPPORT THE CHANNEL~~
 
-## 🙌 SUPPORT THE CHANNEL
+ ~~🔽 CONNECT WITH ME~~
 
+ ~~🎒 MY COURSES~~
 
-## 🔽 CONNECT WITH ME
+ ~~🙏 REQUEST VIDEOS~~
 
+ ~~🔔 SUBSCRIBE ON YOUTUBE~~
 
-## 🎒 MY COURSES
-
-
-## 🙏 REQUEST VIDEOS
-
-
-## 🔔 SUBSCRIBE ON YOUTUBE
-
+# Basic writing and formatting syntax
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 ---
 ## 📜 License
