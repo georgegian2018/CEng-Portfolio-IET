@@ -1,8 +1,6 @@
 # 🛠️ Git and GitHub for Beginners Tutorial
 
 ![Markdown](https://img.shields.io/badge/Format-Markdown-blueviolet)
-![Format](https://img.shields.io/badge/Format-Microsoft%20Document%20Word-blue) 
-![Format](https://img.shields.io/badge/Format-PDF--Portable%20Document%20Format-red)
 ![Format](https://img.shields.io/badge/Format-MarkDown%20Document-brightgreen)
 ![Templates](https://img.shields.io/badge/Templates-Available-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Active%20Development-blue)
@@ -16,12 +14,14 @@ A beginner-friendly, no-assumptions step-by-step tutorial, explaining how to use
 
 We start with Git. 
 - What is it?
-- How you can get it running on your system, and how you can start working with it?
+- How you can get it running on your system,
+- and how you can start working with it?
 
 Then we look at GitHub.com, a platform for hosting and collaborating on Git repositories. 
 
 By the end, you'll be well on your way to using **Git** and **GitHub**. 
-~~If you'd like to follow along, I've included sample files down below.~~
+
+----
 
 ## 📚 RESOURCES
 - Sample files to follow along: 
@@ -153,19 +153,9 @@ Download the content from a remote repository
 git pull REMOTE
 ```
 
- ~~📺 RELATED VIDEOS~~
+---
 
- ~~🙌 SUPPORT THE CHANNEL~~
-
- ~~🔽 CONNECT WITH ME~~
-
- ~~🎒 MY COURSES~~
-
- ~~🙏 REQUEST VIDEOS~~
-
- ~~🔔 SUBSCRIBE ON YOUTUBE~~
-
-# Basic writing and formatting syntax
+## Basic writing and formatting syntax
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 ---
