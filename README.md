@@ -2,7 +2,6 @@
 
 ![Markdown](https://img.shields.io/badge/Format-Markdown-blueviolet)
 ![Format](https://img.shields.io/badge/Format-MarkDown%20Document-brightgreen)
-![Templates](https://img.shields.io/badge/Templates-Available-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Active%20Development-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-success)
