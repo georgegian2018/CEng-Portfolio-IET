@@ -1,4 +1,4 @@
-# 🛠️ Git and GitHub for Beginners Tutorial
+# 🛠️ Git and GitHub for Beginners Tutorial using CLI
 
 ![Markdown](https://img.shields.io/badge/Format-Markdown-blueviolet)
 ![Format](https://img.shields.io/badge/Format-MarkDown%20Document-brightgreen)
@@ -82,12 +82,12 @@ git diff
 git commit -m "MESSAGE"
 ```
 
-**Reset staging area to the last commit
+**Reset staging area to the last commit**
 ```text
 git reset
 ```
 
-Check the state of the working directory and the staging area**
+**Check the state of the working directory and the staging area**
 ```text
 git status
 ```
