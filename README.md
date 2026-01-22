@@ -1,4 +1,4 @@
-# 🛠️ Git and GitHub for Beginners Tutorial using CLI
+# 🛠️ Git and GitHub Tutorial using CLI
 
 ![Markdown](https://img.shields.io/badge/Format-Markdown-blueviolet)
 ![Format](https://img.shields.io/badge/Format-MarkDown%20Document-brightgreen)
@@ -14,7 +14,7 @@ A beginner-friendly, no-assumptions step-by-step tutorial, explaining how to use
 
 We start with Git. 
 - What is it?
-- How you can get it running on your system,
+- How you can get it running on your system?
 - and how you can start working with it?
 
 Then we look at GitHub.com, a platform for hosting and collaborating on Git repositories. 
