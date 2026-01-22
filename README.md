@@ -49,6 +49,7 @@ git clone REPOSITORY URL
 Add a file to the staging area
 ```text
 git add FILE
+```
 
 Add all file changes to the staging area
 ```text
